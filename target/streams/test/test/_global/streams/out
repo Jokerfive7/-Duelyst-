@@ -1,0 +1,44 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 5 initial tasks for 5 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(SummonTest, sbt.ForkMain$AnnotatedFingerscan@3d643f66, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mSummonTest[0m.[36mcheckSummon[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mSummonTest[0m.[36mcheckSummon[0m finished, took 4.348 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 4.363s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(EndGameTest, sbt.ForkMain$AnnotatedFingerscan@19ff8187, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mEndGameTest[0m.[36mcheckEndGame[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mEndGameTest[0m.[36mcheckEndGame[0m finished, took 1.637 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mEndGameTest[0m.[36mcheckEndGame1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mEndGameTest[0m.[36mcheckEndGame1[0m finished, took 1.628 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 2 total, 3.268s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 2 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(InitalizationTest, sbt.ForkMain$AnnotatedFingerscan@616665f0, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mInitalizationTest[0m.[36mcheckInitalized[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mInitalizationTest[0m.[36mcheckInitalized[0m finished, took 1.591 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 1.592s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(checkDrawingCard, sbt.ForkMain$AnnotatedFingerscan@2d87c2c7, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mcheckDrawingCard[0m.[36mcheckDrawingCard[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mcheckDrawingCard[0m.[36mcheckDrawingCard[0m finished, took 1.583 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 1.585s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(MoveTest, sbt.ForkMain$AnnotatedFingerscan@7e3918e7, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mMoveTest[0m.[36mcheckMove[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mMoveTest[0m.[36mcheckMove[0m finished, took 1.591 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 1.592s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 6, Failed 0, Errors 0, Passed 6[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SummonTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EndGameTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InitalizationTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	checkDrawingCard[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoveTest[0m

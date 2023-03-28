@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(D:\IT2022-23\Profile\ITteam\template\ITSD-DT2022-Template\ITSD-DT2022-Template\test\MoveTest.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(D:\IT2022-23\Profile\ITteam\template\ITSD-DT2022-Template\ITSD-DT2022-Template\test\MoveTest.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Java source to D:\IT2022-23\Profile\ITteam\template\ITSD-DT2022-Template\ITSD-DT2022-Template\target\scala-2.13\test-classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@4993b6b2 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 4.0571949 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.0703007 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 4.1406063 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from MoveTest...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: MoveTest[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(MoveTest)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(MoveTest,ModifiedNames(changes = UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(checkMove,[Default]), UsedName(notify,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]), UsedName(MoveTest;init;,[Default]), UsedName(MoveTest,[Default]))) invalidates 1 classes due to The MoveTest has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(checkMove,[Default]), UsedName(notify,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]), UsedName(MoveTest;init;,[Default]), UsedName(MoveTest,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(MoveTest)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
